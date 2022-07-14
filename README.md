@@ -122,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@AnupamK60114828](https://twitter.com/AnupamK60114828) - anupamk@iitbhilai.ac.in
+Anupam Kumar - [@AnupamK60114828](https://twitter.com/AnupamK60114828) - anupamk@iitbhilai.ac.in
 
 Project Link: [https://github.com/Anupam0401/Python-3-bootcamp](https://github.com/Anupam0401/Python-3-bootcamp)
 
